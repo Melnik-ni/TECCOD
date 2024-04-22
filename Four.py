@@ -5,4 +5,4 @@ def sort_strings(strings):
     print("Сортировка по убыванию: ", strings)
 
 strings = ["апельсин", "лимон", "ананас", "гранат", "персик", "22"]
-sort_strings(strings)
+sort_strings(strings)  ss
